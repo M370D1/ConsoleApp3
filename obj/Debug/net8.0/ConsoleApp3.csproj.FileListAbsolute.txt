@@ -1,0 +1,14 @@
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Automation_QA\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\Automation_QA\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\Automation_QA\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\Automation_QA\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\Automation_QA\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\Automation_QA\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
