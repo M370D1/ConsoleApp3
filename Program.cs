@@ -17,6 +17,9 @@ namespace ConsoleApp3
                 case "2":
                     Task2MaxSequenceOfEqualElements.Execute();
                     break;
+                case"3":
+                    Task3Train.Execute();
+                    break;
                 default:
                     Console.WriteLine("Invalid choice.");
                     break;
