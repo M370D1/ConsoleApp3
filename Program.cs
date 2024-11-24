@@ -20,6 +20,9 @@ namespace ConsoleApp3
                 case"3":
                     Task3Train.Execute();
                     break;
+                case "4":
+                    Task4CardsGame.Execute();
+                    break;
                 default:
                     Console.WriteLine("Invalid choice.");
                     break;
