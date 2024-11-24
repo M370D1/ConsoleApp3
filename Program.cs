@@ -23,6 +23,12 @@ namespace ConsoleApp3
                 case "4":
                     Task4CardsGame.Execute();
                     break;
+                case "5":   
+                    Task5CoauntCharsInString.Execute();
+                    break;
+                case "6":
+                    Task6MinerTask.Execute();
+                    break;
                 default:
                     Console.WriteLine("Invalid choice.");
                     break;
