@@ -32,6 +32,9 @@ namespace ConsoleApp3
                 case "7":
                     Task7BasicStackOperations.Execute();
                     break;
+                case "8":
+                    Task8BasicQueueOperations.Execute();
+                    break;
                 default:
                     Console.WriteLine("Invalid choice.");
                     break;
