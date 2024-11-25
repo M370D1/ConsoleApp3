@@ -6,7 +6,7 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Choose a task to execute (1-5):");
+            Console.WriteLine("Choose a task to execute (1-8):");
             string choice = Console.ReadLine();
 
             switch (choice)
@@ -28,6 +28,9 @@ namespace ConsoleApp3
                     break;
                 case "6":
                     Task6MinerTask.Execute();
+                    break;
+                case "7":
+                    Task7BasicStackOperations.Execute();
                     break;
                 default:
                     Console.WriteLine("Invalid choice.");
